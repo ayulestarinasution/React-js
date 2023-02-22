@@ -30,7 +30,7 @@ export default function Form( ) {
         type="checkbox"
         id="remember"
         />
-        <label className='ml-2 font-medium text-base' for="remember">Remember for 30 days</label>
+        <label className='ml-2 font-medium text-base' >Remember for 30 days</label>
         </div>
         <button className='font-medium text-base text-violet-600'>forget password</button>
     
